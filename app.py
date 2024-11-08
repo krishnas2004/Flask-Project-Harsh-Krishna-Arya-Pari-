@@ -57,7 +57,7 @@ def gen_frames():
                 text = 'Welcome Sir'
             else:
                 color = color_unrecognized
-                text = 'Pravesh Nishedh'
+                text = 'Unknown Face'
 
             # Draw rectangle and text
             cv2.rectangle(frame, (x, y), (x+w, y+h), color, 2)

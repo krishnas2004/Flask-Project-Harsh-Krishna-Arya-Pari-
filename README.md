@@ -1,2 +1,0 @@
-# Face-Authentication-Using-Python
-
